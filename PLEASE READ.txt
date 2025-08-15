@@ -1,0 +1,10 @@
+This is assignment submisssion by
+Shashwat Mishra ( COE ) (2C82)
+Roll No.: 1024031139
+
+The Files are named for the following questions
+(Q1) answer in file named as "menu.c"
+(Q2) answer in file named as "duplicate.c"
+(Q4) part-a 
+     answer file named as "reverse.c"
+(Q5) answer file named as "sum.c"
